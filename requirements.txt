@@ -1,0 +1,23 @@
+# Binary requirements
+# Netcdf
+# GDAL
+
+pyspark
+pandas
+fastparquet
+numpy
+
+rasterio
+rioxarray
+xarray
+rio-cogeo
+rio-viz
+netCDF4
+pyproj
+
+scipy
+matplotlib
+
+# SERVER
+aiohttp
+rio-tiler
