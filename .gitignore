@@ -2,5 +2,6 @@
 venv/
 .idea/
 data/
+__pycache__/
 
 notebooks/.ipynb_checkpoints
