@@ -9,7 +9,7 @@ TODO:
 
 ### Running
 Create virtual env and install requiements
-Have sample SPIDI data at ./data/naerm_rt
+Have sample SPIDI data at ./data/
 
 ```
 python3  main.py
